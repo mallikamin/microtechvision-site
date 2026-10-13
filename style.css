@@ -50,7 +50,7 @@ nav a:hover{color:var(--teal-d)}
 .badge.sold{background:#FDECEC;color:#B42318}
 .pbody{padding:16px}
 .pbody p{color:var(--muted);font-size:14px;margin-top:4px}
-.prow{display:flex;justify-content:space-between;align-items:center;margin-top:14px;font-size:14px}
+.prow{display:flex;flex-wrap:wrap;gap:4px 14px;justify-content:space-between;align-items:center;margin-top:14px;font-size:14px}
 .prow b{font-size:17px;white-space:nowrap}
 .prow span{color:var(--muted)}
 
